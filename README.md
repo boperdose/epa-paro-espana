@@ -101,18 +101,15 @@ jupyter notebook analisis_paro_EPA_2019_2024.ipynb
  
 ## Visualizaciones incluidas
  
-> *Añade aquí capturas de pantalla de los gráficos más relevantes del notebook.*
- 
 | Visualización | Descripción |
 |---|---|
-| Pirámide de paro | Tasa de paro por sexo y franja de edad (2024) |
-| Evolución temporal | Fluctuación del paro 2019–2024, por sexo |
-| Mapa coroplético | Tasa de paro por Comunidad Autónoma (2024) |
-| Nivel educativo | Tasa de paro por nivel de estudios, evolución temporal |
-| Duración del paro | Distribución de la duración del desempleo por año |
-| Impacto COVID-19 | Grupos más y menos vulnerables durante la pandemia |
- 
----
+| ![Duración de tasa de paro](screenshots/duracion_tasa_paro.png) | Distribución de la duración del desempleo por año |
+| ![Evolución de tasa de paro por CCAA](screenshots/evolucion_tasa_paro_ccaa.png) | Evolución de la tasa de paro por Comunidad Autónoma |
+| ![Pirámide de tasa de paro por sexo y edad](screenshots/piramide_tasa_paro_sexo_edad.png) | Tasa de paro por sexo y franja de edad (2024) |
+| ![Porcentaje de parados por año](screenshots/porcentaje_parados_anio.png) | Fluctuación del paro 2019–2024 |
+| ![Porcentaje de parados por sexo](screenshots/porcentaje_parados_sexo.png) | Evolución del paro por sexo (2019–2024) |
+| ![Tasa de paro por comunidad autónoma](screenshots/tasa_paro_ccaa.png) | Mapa coroplético de la tasa de paro por CCAA (2024) |
+| ![Tasa de paro por nivel de estudios](screenshots/tasa_paro_estudios.png) | Tasa de paro por nivel educativo (2019–2024) |
  
 ## Fuente de datos
  
