@@ -27,7 +27,7 @@ Análisis exploratorio del desempleo en España usando los microdatos de la **En
  
 Otros hallazgos destacados:
 - La tasa de paro bajó del **14.1% (2019) al 11.3% (2024)**, a pesar del pico de la pandemia.
-- Las mujeres tuvieron una mayor brecha de paro durante el COVID-19 (+3.66 puntos respecto a hombres).
+- Las mujeres tuvieron una mayor brecha de paro durante el COVID-19 (+3.66% puntos respecto a hombres).
 - Los encuestados con estudios superiores mantienen una tasa de paro estable en torno al **7%**, frente al **25–40%** de quienes no completaron la primaria.
 - El sur dela peninsula padece el paro más alto: Andalucía (16.46%) y Extremadura (15.51%).
  
