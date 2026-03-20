@@ -124,4 +124,4 @@ jupyter notebook analisis_paro_EPA_2019_2024.ipynb
  
 Eloy Jalloul Xicart, 
 Estudiante de Matemáticas  
-[LinkedIn] · [eljallxi12@gmail.com]
+[eljallxi12@gmail.com]
