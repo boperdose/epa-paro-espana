@@ -103,14 +103,13 @@ jupyter notebook analisis_paro_EPA_2019_2024.ipynb
  
 | Visualización | Descripción |
 |---|---|
-| ![Duración de tasa de paro](screenshots/duracion_tasa_paro.png) | Distribución de la duración del desempleo por año |
-| ![Evolución de tasa de paro por CCAA](screenshots/evolucion_tasa_paro_ccaa.png) | Evolución de la tasa de paro por Comunidad Autónoma |
-| ![Pirámide de tasa de paro por sexo y edad](screenshots/piramide_tasa_paro_sexo_edad.png) | Tasa de paro por sexo y franja de edad (2024) |
-| ![Porcentaje de parados por año](screenshots/porcentaje_parados_anio.png) | Fluctuación del paro 2019–2024 |
-| ![Porcentaje de parados por sexo](screenshots/porcentaje_parados_sexo.png) | Evolución del paro por sexo (2019–2024) |
-| ![Tasa de paro por comunidad autónoma](screenshots/tasa_paro_ccaa.png) | Mapa coroplético de la tasa de paro por CCAA (2024) |
-| ![Tasa de paro por nivel de estudios](screenshots/tasa_paro_estudios.png) | Tasa de paro por nivel educativo (2019–2024) |
- 
+| ![Duración de tasa de paro](screenshots/dtp.png) | Distribución de la duración del desempleo por año |
+| ![Evolución de tasa de paro por CCAA](screenshots/evoccaa.png) | Evolución de la tasa de paro por Comunidad Autónoma |
+| ![Pirámide de tasa de paro por sexo y edad](screenshots/piramide.png) | Tasa de paro por sexo y franja de edad (2024) |
+| ![Porcentaje de parados por año](screenshots/parados.png) | Fluctuación del paro 2019–2024 |
+| ![Porcentaje de parados por sexo](screenshots/paradosexo.png) | Evolución del paro por sexo (2019–2024) |
+| ![Tasa de paro por comunidad autónoma](screenshots/ccaa2024.png) | Mapa coroplético de la tasa de paro por CCAA (2024) |
+| ![Tasa de paro por nivel de estudios](screenshots/tasaestudios.png) | Tasa de paro por nivel educativo (2019–2024) |
 ## Fuente de datos
  
 **Instituto Nacional de Estadística (INE)** — Encuesta de Población Activa  
